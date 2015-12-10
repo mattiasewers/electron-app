@@ -1,6 +1,6 @@
 {
   "name": "electron-app",
-  "version": "0.7.0-beta",
+  "version": "0.1.0",
   "description": "Electron app",
   "main": "main.js",
   "scripts": {
@@ -24,24 +24,19 @@
     "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
   },
   "author": {
-    "name": "C. T. Lin",
-    "email": "chentsulin@gmail.com",
-    "url": "https://github.com/chentsulin"
+    "name": "Mattias Ewers",
+    "email": "mattias.ewers@gmail.com",
+    "url": "https://github.com/mattiasewers"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-  },
   "keywords": [
     "electron",
-    "boilerplate",
     "react",
     "react-router",
     "flux",
     "webpack",
     "react-hot"
   ],
-  "homepage": "https://github.com/chentsulin/electron-react-boilerplate#readme",
   "devDependencies": {
     "asar": "^0.8.0",
     "babel": "^5.8.23",
